@@ -1,0 +1,14 @@
+{
+    "name": "guilhermesteves/mail-event-generator",
+    "description": "Generate links for calendar",
+    "type": "project",
+    "require": {
+        "spatie/calendar-links": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Guilherme Esteves",
+            "email": "guilhermesteves@icloud.com"
+        }
+    ]
+}
